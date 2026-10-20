@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security issue privately
+    url: mailto:latchlanguage@gmail.com?subject=%5Bsecurity%5D
+    about: Never in a public issue. See SECURITY.md; on a public repository you can also use its Security tab.
